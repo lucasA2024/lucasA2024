@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![(https://tenor.com/pt-BR/search/bruno-henrique-gifs)]
+![](https://tenor.com/pt-BR/search/bruno-henrique-gifs)
